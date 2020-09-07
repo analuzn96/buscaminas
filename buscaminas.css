@@ -1,0 +1,40 @@
+.celda {
+    background-color: grey;
+    height: 40px;
+    margin: auto;
+}
+
+.sin_fondo {
+    background:transparent
+}
+
+img {
+    display:block;
+    margin:auto;
+}
+
+#tablero {
+    width: 60%;
+    margin: auto;
+}
+
+#contador {
+    background-color: yellowgreen; 
+    height: 40px;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#detalle {
+    background-color: yellowgreen;
+    color: black;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+}
+
+body {
+    background-color: darkslategray;
+}
